@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+   /*background-color: #d0f4f9;*/
+}
+
+header img{
+	max-width: 60%;
+	height: auto;
+}
+
+.masthead-heading {
+	color: 	#f92655;
+	font-family: 'Kalam';
+	font-size: 3rem;
+}
+
+.masthead-subheading {	
+	color: 	#484c4f;
+	font-family: 'Lora';
+	font-size: 1.5rem;
+	letter-spacing: -0.1rem;
+}
+
+ ul a {
+ 	color: #753149;
+	font-family: 'Lora';
+ }
+
+ .dropdown-item {
+ 	color: #753149;
+ }
+
+a:hover {
+  color: #753149;
+}
+
+.choreos {
+	background-color: white;
+	color: #31101c;
+	border: 2px solid #753149;
+	font-family: 'Kalam';
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+.img-fluid {
+	max-width: 100%;
+	height:auto;
+}
+
+.card {
+	border: 2px solid 		#484c4f;
+}
+
+.card-header { 
+	background-color: #e8dfe1;
+}
+
+.card-title{
+	color: 	#f92655;
+}
+
+.card-subtitle{
+	color: 	#484c4f;
+}
+
+.card-video {
+	margin-top: 1px;
+}
+
+.card-footer {
+    background-color: rgba(0,0,0, 0.0);
+    }
+
+#lastCard {
+	border-color: white;
+}
+
+footer {
+	margin-top: 40px;
+}
+
+.button {
+	background:url("img/bankhasFace.png");
+}
+
